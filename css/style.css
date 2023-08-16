@@ -1,0 +1,248 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+    background-color: #B3B3B3;
+}
+
+.sobre-mi {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    height: 60px;
+    text-align: center;
+    width: 100%;
+    padding: 50px;
+}
+
+div.sobre-mi {
+    background-color: rgba(0, 0, 0, 50%);
+    margin-bottom: 30px;
+    position: fixed;
+}
+
+.conten-vitae {
+    height: 90px;
+    padding-top: 100px;
+    background-color: rgba(0, 0, 0, 70%);
+}
+
+.texto-principal {
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 15px;
+    font-size: 35px;
+    padding: 60px;
+    color: #005677;
+}
+
+h1.texto-principal {
+    position: relative;
+    top: 10px;
+    text-align: center;
+}
+
+.mi-foto-perfil {
+    width: 300px;
+    height: 300px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.8);
+}
+
+.mi-foto {
+    width: 300px;
+    height: 300px;
+    padding-top: 185px;
+    padding-left: 43%;
+
+}
+
+/* Aqui empieza el motivo del subtitulo */
+.conten-personales {
+    width: 100%;
+    height: auto;
+    padding: 30px;
+    position: relative;
+    top: 300px;
+}
+
+.titulo-personales {
+    font-size: 30px;
+    background-color: #C4C4C4;
+    border-radius: 20px;
+    width: 100%;
+    color: #005677;
+    text-align: center;
+    letter-spacing: 15px;
+}
+
+/* Aqui empieza el motivo del contenido */
+.txt-nom {
+    position: relative;
+    top: 30px;
+    left: 200px;
+    font-size: 30px;
+    text-align: center;
+}
+.txt-nom-1 {
+    position: relative;
+    top: 30px;
+    left: 260px;
+    font-size: 30px;
+    text-align: center;
+}
+.txt-fech {
+    position: relative;
+    top: 50px;
+    left: 200px;
+    font-size: 30px;
+    text-align: center;
+}
+.txt-fech-1 {
+    position: relative;
+    top: 50px;
+    left: 230px;
+    font-size: 30px;
+    text-align: center;
+}
+.txt-lugar {
+    position: relative;
+    top: 70px;
+    left: 200px;
+    font-size: 30px;
+    text-align: center;
+}
+.txt-lugar-1 {
+    position: relative;
+    top: 70px;
+    left: 230px;
+    font-size: 30px;
+    text-align: center;
+} /* Aqui es el fin del motivo del contenido */
+
+
+.conten-formacion {
+    width: 100%;
+    height: auto;
+    padding: 30px;
+    position: relative;
+    top: 500px;
+}
+
+.titulo-formacion {
+    font-size: 30px;
+    background-color: #C4C4C4;
+    border-radius: 20px;
+    width: 100%;
+    color: #005677;
+    text-align: center;
+    letter-spacing: 15px;
+}
+
+/* Aqui empieza el motivo del contenido */
+.txt-pri {
+    position: relative;
+    top: 30px;
+    left: 200px;
+    font-size: 30px;
+    text-align: center;
+}
+.txt-pri-1 {
+    position: relative;
+    top: 30px;
+    left: 230px;
+    font-size: 30px;
+    text-align: center;
+}
+.txt-secu {
+    position: relative;
+    top: 50px;
+    left: 200px;
+    font-size: 30px;
+    text-align: center;
+}
+.txt-secu-1 {
+    position: relative;
+    top: 50px;
+    left: 230px;
+    font-size: 30px;
+    text-align: center;
+}
+.txt-tec {
+    position: relative;
+    top: 70px;
+    left: 200px;
+    font-size: 30px;
+    text-align: center;
+}
+.txt-tec-1 {
+    position: relative;
+    top: 70px;
+    left: 230px;
+    font-size: 30px;
+    text-align: center;
+} /* Aqui es el fin del motivo del contenido */
+
+.conten-experiencia {
+    width: 100%;
+    height: auto;
+    padding: 30px;
+    position: relative;
+    top: 700px;
+}
+
+.titulo-exp {
+    font-size: 30px;
+    background-color: #C4C4C4;
+    border-radius: 20px;
+    width: 100%;
+    color: #005677;
+    text-align: center;
+    letter-spacing: 15px;
+}
+
+.txt-exp {
+    position: relative;
+    top: 30px;
+    left: 200px;
+    font-size: 30px;
+    text-align: center;
+}
+.txt-exp-1 {
+    position: relative;
+    top: 30px;
+    left: 300px;
+    font-size: 30px;
+    text-align: center;
+}
+.txt-exp2 {
+    position: relative;
+    top: 50px;
+    left: 200px;
+    font-size: 30px;
+    text-align: center;
+}
+.txt-exp2-1 {
+    position: relative;
+    top: 50px;
+    left: 230px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.pie {
+    background-color: #005677;
+    height: 37px;
+    position: relative;
+    top: 987px;
+}
+
+.txt-pie {
+    color: #ffff;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 10px;
+}
